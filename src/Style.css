@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#box1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    
+    
+}
+#box2{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    margin-left: 400px;
+    margin-top: -320px; 
+    
+}
+#box3{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    margin-left: 400px;
+    margin-top: -121px;
+     
+}
